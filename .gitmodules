@@ -1,3 +1,6 @@
 [submodule "CPP-LocalProjects"]
 	path = CPP-LocalProjects
 	url = https://github.com/Nk125/CPP-LocalProjects
+[submodule "plusaes"]
+	path = plusaes
+	url = https://github.com/kkAyataka/plusaes
