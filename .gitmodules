@@ -1,3 +1,7 @@
 [submodule "CPP-LocalProjects"]
-	path = CPP-LocalProjects
+	path = SimpleBinaryFileHandler
 	url = https://github.com/Nk125/CPP-LocalProjects
+
+[submodule "plusaes"]
+	path = PlusAES
+	url = https://github.com/kkAyataka/plusaes
