@@ -172,7 +172,7 @@ namespace nk125 {
                 return decrypted_buffer;
             }
 
-            std::string gcm_encrypt(std::string raw, std::string pass, std::string tag, std::string aad = "") {
+            std::string gcm_encrypt(std::string raw, std::string pass, std::string aad = "") {
                 const unsigned long pass_sz = pass.size(), orig_raw_sz = raw.size();
                 if (orig_raw_sz == 0 || (pass_sz != 16 && pass_sz != 24 && pass_sz != 32)) return "";
 
