@@ -1,5 +1,5 @@
 #include <iostream>
-#include "binaryhandling.hpp"
+#include "binaryhandler.hpp"
 #include "plusaes_wrapper.hpp"
 
 int main(int argc, char* argv[]) {
